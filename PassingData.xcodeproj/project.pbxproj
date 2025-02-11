@@ -17,6 +17,7 @@
 		9A51FED32D5BCFD7008B9226 /* PassingDataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A51FED22D5BCFD7008B9226 /* PassingDataTests.swift */; };
 		9A51FEDD2D5BCFD7008B9226 /* PassingDataUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A51FEDC2D5BCFD7008B9226 /* PassingDataUITests.swift */; };
 		9A51FEDF2D5BCFD7008B9226 /* PassingDataUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A51FEDE2D5BCFD7008B9226 /* PassingDataUITestsLaunchTests.swift */; };
+		9A51FEEC2D5BD090008B9226 /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A51FEEB2D5BD090008B9226 /* SecondVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		9A51FED82D5BCFD7008B9226 /* PassingDataUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PassingDataUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A51FEDC2D5BCFD7008B9226 /* PassingDataUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassingDataUITests.swift; sourceTree = "<group>"; };
 		9A51FEDE2D5BCFD7008B9226 /* PassingDataUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassingDataUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9A51FEEB2D5BD090008B9226 /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 			children = (
 				9A51FEB82D5BCFD3008B9226 /* AppDelegate.swift */,
 				9A51FEBA2D5BCFD3008B9226 /* SceneDelegate.swift */,
+				9A51FEEB2D5BD090008B9226 /* SecondVC.swift */,
 				9A51FEBC2D5BCFD3008B9226 /* ViewController.swift */,
 				9A51FEBE2D5BCFD3008B9226 /* Main.storyboard */,
 				9A51FEC42D5BCFD7008B9226 /* Assets.xcassets */,
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A51FEBD2D5BCFD3008B9226 /* ViewController.swift in Sources */,
+				9A51FEEC2D5BD090008B9226 /* SecondVC.swift in Sources */,
 				9A51FEB92D5BCFD3008B9226 /* AppDelegate.swift in Sources */,
 				9A51FEBB2D5BCFD3008B9226 /* SceneDelegate.swift in Sources */,
 				9A51FEC32D5BCFD3008B9226 /* PassingData.xcdatamodeld in Sources */,
